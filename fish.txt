@@ -1,0 +1,6 @@
+cat fish.txt  # after saving, show the contents of the file
+one fish
+Two fish
+Three cats
+not enough
+
